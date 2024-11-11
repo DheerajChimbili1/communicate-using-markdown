@@ -9,3 +9,6 @@ i have added header files from 1 to 6
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
